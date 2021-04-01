@@ -1,0 +1,4 @@
+test:
+  sliding-time-interval: 60 # in seconds
+  number-of-requests-per-instrument: 10
+  instrument-size: 10

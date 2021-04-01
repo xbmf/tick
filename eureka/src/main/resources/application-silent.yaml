@@ -1,0 +1,5 @@
+logging:
+  level:
+    root: "error"
+    org.springframework.web: "error"
+    org.hibernate: "error"
